@@ -24,4 +24,4 @@ Since our game is a modification of TLoZ: A Link to the Past, we needed to creat
 
 The last thing that I did that is different from taking sprites for the game was the intro of our logo for the game. 
 
-[![]()](https://www.youtube.com/watch?v=HuCWsDA6xVQ&feature=youtu.be)
+[![](http://imgur.com/HWww9hP.png)](https://www.youtube.com/watch?v=HuCWsDA6xVQ&feature=youtu.be)
